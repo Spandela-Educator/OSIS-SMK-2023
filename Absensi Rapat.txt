@@ -1,0 +1,46 @@
+ABSENSI RAPAT 
+KELAS X
+AK 1 : 2
+AK 2 : 2
+PPLG 1: 2
+PPLG 2: 2
+PPLG 3: 2
+
+KLAS 
+AK 1 : 2
+AK 2 : 2
+PPLG 1:2
+PPLG 2:1
+PPLG 3:2
+
+KELAS XII
+AK 1:2
+AK 2:2
+PPLG 1:2
+RPL 2: 2
+
+
+===========================
+KELAS X
+AK 1 : 
+AK 2 : 
+PPLG 1: 
+PPLG 2: 
+PPLG 3: 
+
+KLAS XI
+AK 1 : 
+AK 2 : 
+PPLG 1:
+PPLG 2:
+PPLG 3:
+
+KELAS XII
+AK 1:
+AK 2:
+PPLG 1:
+RPL 2: 
+
+
+
+
